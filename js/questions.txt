@@ -1,0 +1,188 @@
+{
+        id: 0,
+        question_img: "./images/signs/yol_bering.gif",
+        question: "Bu Qanday Yo'l Belgisi",
+        options: [
+            "Turar-joy dahasi",
+            "Asosiy yolning oxiri",
+            "Asosiy yo’lning yo’nalishi",
+            "Yo'l bering",
+        ],
+        correct: "Yo'l bering",
+    },
+    
+    
+    {
+        id: 1,
+        question_img: "./images/signs/aholi_punkti.gif",
+        question: "Bu Qanday Yo'l Belgisi",
+        options: [
+            "Turar-joy dahasi",
+            "Asosiy yolning oxiri",
+            "Asosiy yo’lning yo’nalishi",
+            "Yo'l bering",
+        ],
+        correct: "Turar-joy dahasi",
+    },
+    
+    
+    {
+        id: 2,
+        question_img: "./images/signs/asosiy_tugash.gif",
+        question: "Bu Qanday Yo'l Belgisi",
+        options: [
+            "Turar-joy dahasi",
+            "Asosiy yolning oxiri",
+            "Asosiy yo’lning yo’nalishi",
+            "Yo'l bering",
+        ],
+        correct: "Asosiy yolning oxiri",
+    },
+    
+    {
+        id: 3,
+        question_img: "./images/signs/asosiy_yol_sxemasi.gif",
+        question: "Bu Qanday Yo'l Belgisi",
+        options: [
+            "Turar-joy dahasi",
+            "Asosiy yolning oxiri",
+            "Asosiy yo’lning yo’nalishi",
+            "Yo'l bering",
+        ],
+        correct: "Asosiy yo’lning yo’nalishi",
+    },
+    
+    {
+        id: 4,
+        question_img: "./images/signs/asosiy_yol.gif",
+        question: "Bu Qanday Yo'l Belgisi",
+        options: [
+            "Asosiy yol",
+            "Asosiy yolning oxiri",
+            "Asosiy yo’lning yo’nalishi",
+            "Yo'l bering",
+        ],
+        correct: "Asosiy yol",
+    },
+    
+    {
+        id: 5,
+        question_img: "./images/signs/avtomagistral.gif",
+        question: "Bu Qanday Yo'l Belgisi",
+        options: [
+            "Asosiy yol",
+            "Asosiy yolning oxiri",
+            "Asosiy yo’lning yo’nalishi",
+            "Avtomagistral",
+        ],
+        correct: "Avtomagistral",
+    },
+    {  
+        id: 6,
+        question_img: "./images/signs/avtomagistral_tugashi.gif",
+        question: "Bu Qanday Yo'l Belgisi",
+        options: [
+            "Avtomagistral oxiri",
+            "Asosiy yolning oxiri",
+            "Asosiy yo’lning yo’nalishi",
+            "Avtomagistral",
+        ],
+        correct: "Avtomagistral oxiri",
+    },
+    
+    {
+        id: 7,
+        question_img: "./images/signs/velosiped_yolkasi.gif",
+        question: "Bu Qanday Yo'l Belgisi",
+        options: [
+            "Avtomagistral oxiri",
+            "Velosiped yolkasi",,
+            "Asosiy yo’lning yo’nalishi",
+            "Avtomagistral",
+        ],
+        correct: "Velosiped yolkasi",
+    },     
+    {
+        id: 8,
+        question_img: "./images/signs/avtomoyka.gif",
+        question: "Bu Qanday Yo'l Belgisi",
+        options: [
+            "Turar-joy dahasi",
+            "Asosiy yolning oxiri",
+            "Asosiy yo’lning yo’nalishi",
+            "Transport vositalarini yuvish joyi",
+        ],
+        correct: "Transport vositalarini yuvish joyi",
+    }, 
+    {
+        id: 9,
+        question_img: "./images/signs/avtoservis.gif",
+        question: "Bu Qanday Yo'l Belgisi",
+        options: [
+            "Turar-joy dahasi",
+            "Asosiy yolning oxiri",
+            "Texnik xizmat ko’rsatish joyi",
+            "Yo'l bering",
+        ],
+        correct: "Texnik xizmat ko’rsatish joyi",
+    },
+
+
+ 
+
+
+  {
+    id: 10,
+    symbol_title: "Aylanma harakatlanish",
+    symbol_img: "./images/signs/aylanma_yol.gif"
+  },
+  {
+    id: 11,
+    symbol_title: "Belgilangan yo’nalishli transport vositalari uchun mo’ljallangan bo’lak",
+    symbol_img: "./images/signs/belgilangan_yonalishli_transport_yolak.gif"
+  },
+  {
+    id: 12,
+    symbol_title: "Yonilg’i shaxobchasi",
+    symbol_img: "./images/signs/benzin.gif"
+  },
+  {
+    id: 13,
+    symbol_title: "Bir izli temir yo’l",
+    symbol_img: "./images/signs/bir_izli_temir.gif"
+  },
+  {
+    id: 14,
+    symbol_title: "Bolalar",
+    symbol_img: "./images/signs/bolalar.gif"
+  },
+  {
+    id: 15,
+    symbol_title: "Oxiri berk yo’l, ko’cha",
+    symbol_img: "./images/signs/boshi_berk_kocha.gif"
+  },
+  {
+    id: 16,
+    symbol_title: "Boshqa xavf-xatar",
+    symbol_img: "./images/signs/boshqa_xavf.gif"
+  },
+  {
+    id: 17,
+    symbol_title: "Chapga burilish taqiqlanadi",
+    symbol_img: "./images/signs/burilish_taqiqlanadi.gif"
+  },
+  {
+    id: 18,
+    symbol_title: "Eng kam tezlik belgilangan yo’lning oxiri",
+    symbol_img: "./images/signs/eng_kam_tezlik_oxiri.gif"
+  },
+  {
+    id: 19,
+    symbol_title: "Avtomobillarni ko’rikdan o’tkazish joyi",
+    symbol_img: "./images/signs/estakada.gif"
+  },
+  {
+    id: 20,
+    symbol_title: "Harakatlanish taqiqlangan",
+    symbol_img: "./images/signs/faqat_odamlaga.gif"
+  },
